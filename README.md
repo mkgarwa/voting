@@ -1,3 +1,3 @@
 # Byju Voting App
 
-#### HEROKU APP - https://neckers-voteapp.herokuapp.com
+#### HEROKU APP - [https://byju-voting.herokuapp.com](https://byju-voting.herokuapp.com/)

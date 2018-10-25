@@ -62903,7 +62903,7 @@
 	  render: function render() {
 	    if (!this.state.auth) return _react2.default.createElement('span', null);
 
-	    var poll_url = 'https://neckers-voteapp.herokuapp.com/poll/' + this.props.poll._id;
+	    var poll_url = 'https://byju-voting.herokuapp.com/poll/' + this.props.poll._id;
 	    console.log(this.props);
 	    return _react2.default.createElement(
 	      'div',

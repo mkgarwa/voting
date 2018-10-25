@@ -13,7 +13,6 @@ require('dotenv').load();
 import socketHandle from './socket_handle';
 import routes from './routes';
 import NotFoundPage from './components/NotFoundPage';
-
 const app = new Express ();
 const server = new Server (app);
 

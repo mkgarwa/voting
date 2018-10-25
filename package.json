@@ -14,14 +14,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NeckersBOX/votingapp.git"
+    "url": "git+https://github.com/mkgarwa/voting.git"
   },
-  "author": "Davide Francesco Merico",
+  "author": "Manoj kumar garwa",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/NeckersBOX/votingapp/issues"
+    "url": "https://github.com/mkgarwa/voting/issues"
   },
-  "homepage": "https://github.com/NeckersBOX/votingapp#readme",
+  "homepage": "https://github.com/mkgarwa/voting#readme",
   "dependencies": {
     "babel-cli": "^6.18.0",
     "babel-core": "^6.20.0",
